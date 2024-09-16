@@ -1,0 +1,32 @@
+.square{
+    width: 100px;
+    height: 100px;
+    background-color: orange;
+    margin-left: 670px;
+}
+
+.circle {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(87, 53, 143);
+    border-radius: 50%;
+    margin-left: 670px;
+
+}
+
+a {
+    background: rgb(95, 55, 176)
+}
+
+a:hover {
+    background: rgb(124, 101, 159);
+}
+
+a:active {
+    background:rgb(112, 103, 130);
+}
+
+p, br, div, body{
+    text-align: center;
+}
+
